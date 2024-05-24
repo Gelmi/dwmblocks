@@ -1,4 +1,5 @@
 # dwmblocks
+This is my fork of dwmblocks.
 Modular status bar for dwm written in c.
 # usage
 To use dwmblocks first run 'make' and then install it with 'sudo make install'.
